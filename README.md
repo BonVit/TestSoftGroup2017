@@ -25,4 +25,4 @@ Project: FBViewer <br>
 Description: a java Android application. Provides access to some personal data on Facebook and VK. <br>
 Shows your VK friends and messages with chosen friend. Can send VK message.
 Note: since facebook api is closed (can't do actually nothing without permission) the fb in app is poor.
-![alt tag](https://hostingkartinok.com/show-image.php?id=c90a9f1b5368cbb0602b7fe9bf917b3a)
+![alt tag](https://s8.hostingkartinok.com/uploads/images/2017/03/c90a9f1b5368cbb0602b7fe9bf917b3a.jpg)
