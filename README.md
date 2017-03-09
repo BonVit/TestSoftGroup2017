@@ -27,3 +27,5 @@ Shows your VK friends and messages with chosen friend. Can send VK message.
 Note: since facebook api is closed (can't do actually nothing without permission) the fb in app is poor. <br>
 ![alt tag](https://s8.hostingkartinok.com/uploads/images/2017/03/c90a9f1b5368cbb0602b7fe9bf917b3a.jpg)
 ![alt tag](https://s8.hostingkartinok.com/uploads/images/2017/03/3c1b1061ff0d63c7d1f3f94dd9c44635.jpg)
+![alt tag](https://s8.hostingkartinok.com/uploads/images/2017/03/0b22a37e3d754d3a86cb46df2cf98e6b.jpg)
+![alt tag](https://s8.hostingkartinok.com/uploads/images/2017/03/6af04e9afd2eef0aa151b94467298f93.jpg)
