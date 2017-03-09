@@ -24,5 +24,6 @@ Description: a multi-threaded java project for testing efficient of fibonacci fu
 Project: FBViewer <br>
 Description: a java Android application. Provides access to some personal data on Facebook and VK. <br>
 Shows your VK friends and messages with chosen friend. Can send VK message.
-Note: since facebook api is closed (can't do actually nothing without permission) the fb in app is poor.
+Note: since facebook api is closed (can't do actually nothing without permission) the fb in app is poor. <br>
 ![alt tag](https://s8.hostingkartinok.com/uploads/images/2017/03/c90a9f1b5368cbb0602b7fe9bf917b3a.jpg)
+![alt tag](https://s8.hostingkartinok.com/uploads/images/2017/03/66f56d1f3b0bfcc7d2c01c4ad7141312.jpg)
